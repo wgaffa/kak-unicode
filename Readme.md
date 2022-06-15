@@ -14,7 +14,7 @@ to your kakoune config file.
 
 If you don't have `unicode-cli` installed either install it or add this line to your kakoune config file instead.
 ```
-plug "wgaffa/kak-unicdoe" %{
+plug "wgaffa/kak-unicode" %{
     cargo install unicode-cli
 }
 ```
